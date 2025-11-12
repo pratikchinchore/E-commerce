@@ -34,7 +34,7 @@ const Home = () => {
                         <h1>FIND AMAZING PRODUCTS BELOW</h1>
                         <a href="#container">
                             <button>
-                                Scroll <CgMouse />
+                                Scroll Button<CgMouse />
                             </button>
                         </a>
                     </div>
@@ -49,5 +49,6 @@ const Home = () => {
         </Fragment>
     )
 };
+
 
 export default Home
